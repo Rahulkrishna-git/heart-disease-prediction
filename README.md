@@ -140,7 +140,7 @@ It also displays:
 
 ## 👨‍💻 Developed By
 
-**Theepan**
+**Rahul krishna**
 
 B.Tech Information Technology
 
